@@ -1,8 +1,8 @@
 {
-  "name": "gostack-nodejs-fundamentals",
+  "name": "gostack-gobarber-backend",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/DouglasFuelber/gostack-nodejs-fundamentals.git",
+  "repository": "https://github.com/DouglasFuelber/gostack-gobarber-backend.git",
   "author": "Douglas Fuelber <contato@douglasfuelber.com>",
   "license": "MIT",
   "scripts": {
