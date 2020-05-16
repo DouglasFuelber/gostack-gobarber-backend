@@ -6,7 +6,7 @@
     "port": 0,
     "username": "",
     "password": "",
-    "database": "gostack_gobarber",
+    "database": "",
     "entities": [
       "./src/modules/**/infra/typeorm/entities/*.ts"
     ],
@@ -22,7 +22,7 @@
     "type": "mongodb",
     "host": "",
     "port": 0,
-    "database": "gostack_gobarber",
+    "database": "",
     "useUnifiedTopology": true,
     "entities": [
       "./src/modules/**/infra/typeorm/schemas/*.ts"
